@@ -4,7 +4,7 @@ enum MyEnum {
     //% block="two"
     Two
 }
-namespace custom {
+namespace codingangels {
     /**
      * TODO: describe your function here
      * @param n describe parameter here, eg: 6
