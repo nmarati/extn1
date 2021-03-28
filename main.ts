@@ -4,7 +4,7 @@ enum MyEnum {
     //% block="two"
     Two
 }
-namespace codingangels {
+namespace customextn {
     /**
      * TODO: describe your function here
      * @param n describe parameter here, eg: 6
